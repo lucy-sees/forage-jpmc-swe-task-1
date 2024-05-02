@@ -1,2 +1,2 @@
-# forage-jpmc-swe-task-1
-JPMC software Engineering Program Task 1
+# JPMC Task 1
+Starter repo for task 1 of the JPMC software engineering program
