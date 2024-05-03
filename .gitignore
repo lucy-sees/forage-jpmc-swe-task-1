@@ -1,0 +1,4 @@
+
+*.txt
+/env/Lib/site-packages
+/env
